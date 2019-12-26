@@ -1,0 +1,8 @@
+com.lys.fastssm
+com.lys.fastssm.base
+com.lys.fastssm.callback
+com.lys.fastssm.common
+com.lys.fastssm.config
+com.lys.fastssm.mybatis
+com.lys.fastssm.shiro
+com.lys.fastssm.util
