@@ -4,19 +4,25 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59af0ceb-a204-4232-8208-9a95b2ebb749" name="Default Changelist" comment="" />
+    <list default="true" id="59af0ceb-a204-4232-8208-9a95b2ebb749" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenRunner">
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1VVhIIohw4ROlOsX1ZmmtwK8bY5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/lys/fastSSM" />
@@ -60,12 +67,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577344089003</updated>
-      <workItem from="1577344096236" duration="6566000" />
+      <workItem from="1577344096236" duration="8116000" />
+      <workItem from="1577406806271" duration="904000" />
     </task>
+    <task id="LOCAL-00001" summary="測試">
+      <created>1577352223769</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577352223769</updated>
+    </task>
+    <task id="LOCAL-00002" summary="測試">
+      <created>1577352702167</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577352702167</updated>
+    </task>
+    <task id="LOCAL-00003" summary="README">
+      <created>1577407177297</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577407177297</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="測試" />
+    <MESSAGE value="README" />
+    <option name="LAST_COMMIT_MESSAGE" value="README" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="198" key="#Inspections" timestamp="1577347765602">
@@ -76,26 +124,42 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="671" y="456" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577344355449" />
-    <state width="1877" height="563" key="GridCell.Tab.0.bottom" timestamp="1577350694766">
+    <state x="558" y="47" key="CommitChangelistDialog2" timestamp="1577407175647">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="563" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1577350694766" />
-    <state width="1877" height="563" key="GridCell.Tab.0.center" timestamp="1577350694765">
+    <state x="558" y="47" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1577407175647" />
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog" timestamp="1577352753513">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="563" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1577350694765" />
-    <state width="1877" height="563" key="GridCell.Tab.0.left" timestamp="1577350694765">
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577352753513" />
+    <state width="1877" height="563" key="GridCell.Tab.0.bottom" timestamp="1577352795360">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="563" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1577350694765" />
-    <state width="1877" height="563" key="GridCell.Tab.0.right" timestamp="1577350694765">
+    <state width="1877" height="563" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1577352795360" />
+    <state width="1877" height="563" key="GridCell.Tab.0.center" timestamp="1577352795359">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="563" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577350694765" />
+    <state width="1877" height="563" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1577352795359" />
+    <state width="1877" height="563" key="GridCell.Tab.0.left" timestamp="1577352795359">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="563" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1577352795359" />
+    <state width="1877" height="563" key="GridCell.Tab.0.right" timestamp="1577352795359">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="563" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577352795359" />
     <state x="461" y="182" key="SettingsEditor" timestamp="1577350683431">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1577350683431" />
+    <state x="552" y="269" key="Vcs.Push.Dialog.v2" timestamp="1577352641551">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1577352641551" />
+    <state x="697" y="313" key="git4idea.merge.GitPullDialog" timestamp="1577352400242">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="697" y="313" key="git4idea.merge.GitPullDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1577352400242" />
     <state x="616" y="250" key="run.anything.popup" timestamp="1577346425826">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
